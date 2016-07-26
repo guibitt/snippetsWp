@@ -4,8 +4,10 @@
 
 ##### Back-end
 - [active-maintenace-mode.php](https://github.com/juniorbdb/snippetsWp/blob/master/Back-end/active-maintenace-mode.php)
-Quando o modo manutenção for ativado essa função coloca o arquivo que esta no diretório especificado.
- 
+```html
+Quando o modo manutenção for ativado essa função coloca o arquivo que esta especificado na função.
+```
+
 ##### Comments
 ##### Front-end
 ##### Images
