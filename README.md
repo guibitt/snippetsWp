@@ -1,3 +1,11 @@
 # Snippets for Wp
 
-> Librarys for WP
+>> Libraries for WP
+
+##### Back-end
+##### Comments
+##### Front-end
+##### Images
+##### Menu
+##### Pages
+##### Posts
