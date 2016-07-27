@@ -23,6 +23,8 @@
 
 ##### Menu
 - [get-description-menu.php](https://github.com/juniorbdb/snippetsWp/blob/master/Menu/get-description-menu.php)
+
+Coloque esta variável na função do menu
 ```php
 $walker = new Menu_With_Description;
 ```
