@@ -28,6 +28,11 @@ Coloque esta variável na função do menu
 ```php
 $walker = new Menu_With_Description;
 ```
+
+Em seguida coloque o código abaixo no array da função wp_nav_menu
+```php
+'walker' => $walker
+```
 - [register-nav-menu.php](https://github.com/juniorbdb/snippetsWp/blob/master/Menu/register-nav-menu.php)
 
 ##### Pages
