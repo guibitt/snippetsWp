@@ -9,8 +9,24 @@
 - [resources-editor.php](https://github.com/juniorbdb/snippetsWp/blob/master/Back-end/resources-editor.php)
 
 ##### Comments
+- [insert-mytheme-comment.php](https://github.com/juniorbdb/snippetsWp/blob/master/Comments/insert-mytheme-comment.php)
+
 ##### Front-end
+- [function-ajax.php](https://github.com/juniorbdb/snippetsWp/blob/master/Front-end/function-ajax.php)
+- [insert-googleanalytics.php](https://github.com/juniorbdb/snippetsWp/blob/master/Front-end/insert-googleanalytics.php)
+- [insert-scripts-style.php](https://github.com/juniorbdb/snippetsWp/blob/master/Front-end/insert-scripts-style.php)
+- [limit-numbers-character.php](https://github.com/juniorbdb/snippetsWp/blob/master/Front-end/limit-numbers-character.php)
+- [remove-junk-header.php](https://github.com/juniorbdb/snippetsWp/blob/master/Front-end/remove-junk-header.php)
+
 ##### Images
+- [post-thumbnails.php](https://github.com/juniorbdb/snippetsWp/blob/master/Images/post-thumbnails.php)
+
 ##### Menu
+- [get-description-menu.php](https://github.com/juniorbdb/snippetsWp/blob/master/Menu/get-description-menu.php)
+```php
+$walker = new Menu_With_Description;
+```
+- [register-nav-menu.php](https://github.com/juniorbdb/snippetsWp/blob/master/Menu/register-nav-menu.php)
+
 ##### Pages
 ##### Posts
